@@ -1,0 +1,6 @@
+framework module Pods_waitLib_Tests {
+  umbrella header "Pods-waitLib_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

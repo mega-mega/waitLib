@@ -1,0 +1,22 @@
+{
+  "name": "waitLib",
+  "version": "0.1.0",
+  "summary": "A short description of waitLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/mega-mega/waitLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "mega-mega": "t.shibuya.uva@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/mega-mega/waitLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "waitLib/Classes/**/*"
+}

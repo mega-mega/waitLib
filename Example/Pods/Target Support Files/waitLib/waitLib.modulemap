@@ -1,0 +1,6 @@
+framework module waitLib {
+  umbrella header "waitLib-umbrella.h"
+
+  export *
+  module * { export * }
+}

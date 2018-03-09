@@ -1,0 +1,6 @@
+framework module Pods_waitLib_Example {
+  umbrella header "Pods-waitLib_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
