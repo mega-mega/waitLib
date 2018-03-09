@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'waitLib_Example' do
+  pod 'waitLib', :path => '../'
+
+  target 'waitLib_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
